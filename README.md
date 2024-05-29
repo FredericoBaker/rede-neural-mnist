@@ -19,5 +19,5 @@ Este repositório contém o código do trabalho da disciplina de Aprendizado de 
 - **Unidades na Camada Oculta**: 50
 - **Taxa de Aprendizado**: 1
 - **Tamanho do Batch**: 10
-- **Perda de Validação**: 0.3917
-- **Acurácia de Validação**: 0.8933
+- **Perda no Conjunto de Teste**: 0.3917
+- **Acurácia no Conjunto de Teste**: 0.8933
