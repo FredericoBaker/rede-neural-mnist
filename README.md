@@ -2,6 +2,8 @@
 
 Este repositório contém o código do trabalho da disciplina de Aprendizado de Máquina do DCC-UFMG. O objetivo é treinar uma rede neural no dataset MNIST, explorando diferentes configurações de hiperparâmetros para otimizar o desempenho.
 
+[Notebook com a implementação](https://github.com/FredericoBaker/rede-neural-mnist/blob/main/main.ipynb)
+
 ## Estrutura do Projeto 📁
 
 - **`MNISTDataset`**: Classe para carregar e preparar o dataset MNIST.
